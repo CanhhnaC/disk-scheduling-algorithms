@@ -9,7 +9,7 @@
 # Image
 ![Image of CanhhnaC](/images/1.jpg)
 ![Image of CanhhnaC](/images/2.jpg)
-![Image of CanhhnaC](/images/3jpg)
+![Image of CanhhnaC](/images/3.jpg)
 
 ## :gear: Setup your own
 
