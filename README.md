@@ -29,6 +29,7 @@
 
 # Install all dependencies
 $ pip install -r requirements.txt
+```
 
 :warning: when error AttributeError: module 'time' has no attribute 'clock'
 #Fix:
@@ -36,4 +37,4 @@ $ pip install -r requirements.txt
   - In file: ptime.py
   - Change systime.clock() to systime.perf_counter()
   
-```
+
