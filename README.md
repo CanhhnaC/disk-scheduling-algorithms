@@ -15,23 +15,24 @@
 
 ```bash
  
- # Clone repo
+# Clone repo
  $ git clone https://github.com/CanhhnaC/disk-scheduling-algorithms.git
  
  $ cd flask-login
  
- # Create a virtualenv (Optional but recomment)
+# Create a virtualenv (Optional but recomment)
  $ python3 -m venv venv
  
- # Activate the virtualenv
+# Activate the virtualenv
  $ venv/bin/activate  (Linux)
  & venv/Script/Activate.ps1 (Windows)
 
 # Install all dependencies
-$ pip install -r requirements.txt
+ $ pip install -r requirements.txt
 ```
 
-:warning: When error AttributeError: module 'time' has no attribute 'clock'
+:warning: 
+# When error AttributeError: module 'time' has no attribute 'clock'
 # Fix:
   - Go to: /venv/lib/site-packages/pyqtgraph
   - In file: ptime.py
