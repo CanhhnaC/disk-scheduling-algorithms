@@ -31,9 +31,8 @@
  $ pip install -r requirements.txt
 ```
 
-:warning: 
-# When error AttributeError: module 'time' has no attribute 'clock'
-# Fix:
+
+# :warning: When error AttributeError: module 'time' has no attribute 'clock':
   - Go to: /venv/lib/site-packages/pyqtgraph
   - In file: ptime.py
   - Change systime.clock() to systime.perf_counter()
