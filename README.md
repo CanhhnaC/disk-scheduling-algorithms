@@ -31,6 +31,9 @@
 
 # Install all dependencies
  $ pip install -r requirements.txt
+ 
+# Run
+ $ python3 ./handle.py
 ```
 
 
