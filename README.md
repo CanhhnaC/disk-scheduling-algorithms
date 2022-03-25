@@ -26,8 +26,8 @@
  $ python3 -m venv venv
  
 # Activate the virtualenv
- $ venv/bin/activate  (Linux)
- & venv/Script/Activate.ps1 (Windows)
+ $ venv/bin/activate  (Linux bash)
+ & venv/Script/Activate.ps1 (Windows Powershell)
 
 # Install all dependencies
  $ pip install -r requirements.txt
