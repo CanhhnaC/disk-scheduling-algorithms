@@ -35,11 +35,5 @@
 # Run
  $ python3 ./handle.py
 ```
-
-
-## :warning: When error AttributeError: module 'time' has no attribute 'clock': ( >=python 3.8)
-  - Go to: /venv/lib/site-packages/pyqtgraph
-  - In file: ptime.py
-  - Change systime.clock() to systime.perf_counter()
   
 
