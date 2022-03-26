@@ -27,7 +27,7 @@
  
 # Activate the virtualenv
  $ venv/bin/activate  (Linux bash)
- & venv/Script/Activate.ps1 (Windows Powershell)
+ & venv\Script\Activate.ps1 (Windows Powershell)
 
 # Install all dependencies
  $ pip install -r requirements.txt
